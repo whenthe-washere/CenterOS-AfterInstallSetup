@@ -1,0 +1,45 @@
+AIS Screen Resolution Support Plan
+--------------------------------------------------------
+Support Status:
++++, ++, + = Will be supported in AIS
+* = High chance of being supported in AIS
+/ = May not be supported in AIS
+---, -- , - = Not supported in AIS
+--------------------------------------------------------
+Common Screen Resolutions:
+1280 × 720
+1366 × 768 (most common screen res for laptops)
+1920 × 1080 (1st most common screen res)
+2560 × 1440 (2nd most common screen res)
+3840 × 2160 (3rd most common screen res)
+5120 × 2880
+7680 × 4320
+--------------------------------------------------------
+Other Screen Resolutions:
+800 × 600 (least used screen resolution)
+1024 × 768
+1280 × 800
+1440 × 900
+1600 × 900
+1680 × 1050 (3rd least used screen resolution)
+1920 × 1200
+2560 × 1600
+3200 × 1800 (2nd least used screen resolution)
+--------------------------------------------------------
+All Screen Resolutions:
+*   7680 × 4320
+*   5120 × 2880
++   3840 × 2160
+--  3200 × 1800
+/   2560 × 1600
+++  2560 × 1440
+/   1920 × 1200
++++ 1920 × 1080
+-   1680 × 1050
+/   1600 × 900
+/   1440 × 900
+*   1366 × 768
+/   1280 × 800
+*   1280 × 720
+/   1024 × 768
+--- 800 × 600
