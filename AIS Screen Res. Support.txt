@@ -1,8 +1,8 @@
 AIS Screen Resolution Support Plan
 --------------------------------------------------------
 Support Status:
-+++, ++, + = Will be supported in AIS
-* = High chance of being supported in AIS
++++, ++, + = Will be supported in AIS(Will come in preview 2)
+* = High chance of being supported in AIS(Will come in preview 3/4)
 / = May not be supported in AIS
 ---, -- , - = Not supported in AIS
 --------------------------------------------------------
