@@ -1,7 +1,8 @@
-AIS Screen Resolution Support Plan
+AIS Screen Resolution Support Plan(Preview 2)
 --------------------------------------------------------
 Support Status:
-+++, ++, + = Will be supported in AIS(Will come in preview 2)
+A = Added
+3+, 2+, + = Will be supported in AIS(Preview 3)
 * = High chance of being supported in AIS(Will come in preview 3/4)
 / = May not be supported in AIS
 ---, -- , - = Not supported in AIS
@@ -27,19 +28,19 @@ Other Screen Resolutions:
 3200 × 1800 (2nd least used screen resolution)
 --------------------------------------------------------
 All Screen Resolutions:
-*   7680 × 4320
-*   5120 × 2880
-+   3840 × 2160
---  3200 × 1800
-/   2560 × 1600
-++  2560 × 1440
-/   1920 × 1200
-+++ 1920 × 1080
--   1680 × 1050
-/   1600 × 900
-/   1440 × 900
-*   1366 × 768
-/   1280 × 800
-*   1280 × 720
-/   1024 × 768
+*3+ 7680 × 4320
+*2+ 5120 × 2880
+  A 3840 × 2160
+ -- 3200 × 1800
+  / 2560 × 1600
+  A 2560 × 1440
+  / 1920 × 1200
+  A 1920 × 1080
+  - 1680 × 1050
+  / 1600 × 900
+  / 1440 × 900
+ *+ 1366 × 768
+  / 1280 × 800
+  * 1280 × 720
+  / 1024 × 768
 --- 800 × 600
